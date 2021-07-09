@@ -30,7 +30,7 @@ Jodhpur 🏫. I love to explore and learn about new things.
 - CamPus Leader at Code for Cause.
 
 
-⚡ Technologies
+#### ⚡ Technologies
 Talk to me about:
 
 Front-end development using HTML, Javascript, CSS, Bootstrap.
