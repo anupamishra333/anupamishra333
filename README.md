@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anupam Mishra</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anupam Mishra</h1>
 <h3 align="center">A passionate Programmer and I ❤️ open-source</h3>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 
 <p align="left"> <img src="code.gif" alt="anupamishra333" width="200" height="200"" /> </p>
 
