@@ -13,6 +13,7 @@
 - 💬 Ask me about **Python, Html ,CSS**
 
 - 📫 How to reach me **anupamishra333@gmail.com**
+- I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
