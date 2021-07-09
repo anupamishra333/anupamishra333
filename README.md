@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Programmer and I ❤️ open-source</h3>
 
 
-<p align="left"> <img src="code.gif" alt="anupamishra333" width="200" height="200"" /> </p>
+<p align="right"> <img src="code.gif" alt="anupamishra333" width="200" height="200"" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamishra333&label=Profile%20views&color=0e75b6&style=flat" alt="anupamishra333" /> </p>
 
 <p align=" left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=dracula&no-frame=true"
