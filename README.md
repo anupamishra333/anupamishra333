@@ -14,6 +14,15 @@
 
 - 📫 How to reach me **anupamishra333@gmail.com**
 - I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
+#### 👯 Communities
+DSC Lead.
+Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
+Microsoft Student Learn Ambassador (MSP/MLSA).
+Deeplearning.ai event ambassador.
+Management Team Lead at Voice Of Code.
+CSE Club at CPU.
+CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
+Internshala Student Partner-16.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
