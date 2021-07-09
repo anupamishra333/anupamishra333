@@ -3,7 +3,7 @@
 
 
 
-<p>  <img align="right" src="code.gif" alt="anupamishra333" width="500" height="300"" /> </p> 
+<p>  <img align="right" src="code.gif" alt="anupamishra333" width="300" height="300"" /> </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamishra333&label=Profile%20views&color=0e75b6&style=flat" alt="anupamishra333" /> </p>
 
