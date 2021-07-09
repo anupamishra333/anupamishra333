@@ -5,7 +5,7 @@
 <p align="left"> <img src="code.gif" alt="anupamishra333" width="200" height="200"" /> </p>
 
 <p align=" left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=onedark&no-frame=true"
+            src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=dracula&no-frame=true"
             alt="anupamishra333" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anupam__mishra" target=""><img
