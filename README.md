@@ -24,6 +24,18 @@ CSE Club at CPU.
 CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
 Internshala Student Partner-16.
 
+⚡ Technologies
+Talk to me about:
+
+Front-end development using HTML, Javascript, CSS, Bootstrap.
+Backend development using Flask, Django.
+Making for Relational Database Management Systems.
+Robust full-stack system design implementation.
+Desktop application development using Flutter (Still learning).
+Mobile application development using Flutter and Kotlin.
+Creating scalable cloud architecture using AWS Cloud.
+Solving Data structure and algorithm questions in Java and Python.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anupam__mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupam__mishra" height="30" width="40" /></a>
