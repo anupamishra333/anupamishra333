@@ -1,12 +1,14 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Anupam Mishra</h1>
+
+<h1 align="center">Hi 👋, I'm Anupam Mishra</h1>I ❤️ open-source
 <h3 align="center">A passionate Programmer</h3>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamishra333&label=Profile%20views&color=0e75b6&style=flat" alt="anupamishra333" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamishra333" alt="anupamishra333" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anupam__mishra" target="blank"><img src="https://img.shields.io/twitter/follow/anupam__mishra?logo=twitter&style=for-the-badge" alt="anupam__mishra" /></a> </p>
+[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 - 🌱 I’m currently learning **React.js**
 
