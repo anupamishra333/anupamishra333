@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Programmer and I ❤️ open-source</h3>
 
 
-<span></span>|<span></span>
 
-<p align="right"> <img src="code.gif" alt="anupamishra333" width="200" height="200"" /> </p> 
+<p>  <img align="right" src="code.gif" alt="anupamishra333" width="200" height="200"" /> </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamishra333&label=Profile%20views&color=0e75b6&style=flat" alt="anupamishra333" /> </p>
 
