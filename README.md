@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamishra333&label=Profile%20views&color=0e75b6&style=flat" alt="anupamishra333" /> </p>
 
 <p align=" left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=dracula&no-frame=true"
+            src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=dracula&no-frame=true"ma&column=3&margin-w=15&margin-h=15
             alt="anupamishra333" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anupam__mishra" target=""><img
@@ -18,16 +18,16 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Python, Html ,CSS**
+- 💬 Ask me about **Python, Html,CSS**
 
 - 📫 How to reach me **anupamishra333@gmail.com**
-- I am Anupam Mishra 😃. I am from Jhabua, Madhya Pradesh and currently doing my B.Tech from Jiet Institute of Design and Technology,
+- I am Anupam Mishra 😃. I am from Jhabua, Madhya Pradesh, and currently doing my B.Tech from Jiet Institute of Design and Technology,
 Jodhpur 🏫. I love to explore and learn about new things.
 #### 👯 Communities
 
 - Microsoft Student Learn Ambassador (MSP/MLSA).
 - Campus Hustler at Skillenza.
-- CamPus Leader at Code for Cause.
+- Campus Leader at Code for Cause.
 
 
 #### ⚡ Technologies
@@ -43,7 +43,7 @@ Creating scalable cloud architecture using AWS Cloud
 --> 
 Making for Relational Database Management Systems.
 
-Solving Data structure and algorithm questions in cpp and Python.
+Solving Data structure and algorithm questions in CPP and Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
