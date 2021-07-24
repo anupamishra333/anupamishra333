@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamishra333&label=Profile%20views&color=0e75b6&style=flat" alt="anupamishra333" /> </p>
 
 <p align=" left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=dracula&no-frame=true"ma&column=3&margin-w=15&margin-h=15
+            src="https://github-profile-trophy.vercel.app/?username=anupamishra333&theme=dracula&no-frame=true-ma&column=3&margin-w=15&margin-h=15"
             alt="anupamishra333" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anupam__mishra" target=""><img
