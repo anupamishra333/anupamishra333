@@ -16,7 +16,7 @@
             alt="anupam__mishra" /></a> </p>
 
 
-- 🌱 I’m currently learning **React.js**
+
 
 - 💬 Ask me about **Python, Html,CSS**
 
@@ -56,9 +56,6 @@ Solving Data structure and algorithm questions in Python.
     <a href="https://kaggle.com/anupammishra131211" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
             alt="anupammishra131211" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/anupamishra333" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupamishra333" height="30"
-            width="40" /></a>
     <a href="https://www.hackerrank.com/anupamishra333" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="anupamishra333" height="30" width="40" /></a>
